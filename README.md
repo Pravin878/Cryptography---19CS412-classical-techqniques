@@ -604,7 +604,8 @@ void decipher() {
 ```
 
 ## OUTPUT:
-![Screenshot 2024-09-04 234518](https://github.com/user-attachments/assets/7867b2d4-aafd-4531-b605-505a9687d083)
+![Screenshot 2024-09-05 084753](https://github.com/user-attachments/assets/874dbfab-8894-4c9c-9c3a-d94cb5279de5)
+
 ## RESULT:
 The program for Vigenere Cipher is executed successfully.
 
