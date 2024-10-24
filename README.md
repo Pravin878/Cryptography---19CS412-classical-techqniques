@@ -105,7 +105,7 @@ The program is executed successfully
 
 ---------------------------------
 
-# PlayFair Cipher
+#  Ex 2 PlayFair Cipher
 Playfair Cipher using with different key values
 
 # AIM:
@@ -367,7 +367,7 @@ The program for play fair is executed successfully.
 
 ---------------------------
 
-# Hill Cipher
+# Ex3 Hill Cipher
 Hill Cipher using with different key values
 
 # AIM:
@@ -500,7 +500,7 @@ The program for hill cipher is executed successfully.
 
 -------------------------------------------------
 
-# Vigenere Cipher
+# Ex 4 Vigenere Cipher
 Vigenere Cipher using with different key values
 
 # AIM:
@@ -611,7 +611,7 @@ The program for Vigenere Cipher is executed successfully.
 
 -----------------------------------------------------------------------
 
-# Rail Fence Cipher
+# Ex 5 Rail Fence Cipher
 Rail Fence Cipher using with different key values
 
 # AIM:
